@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Sobre nós A SoundWave é uma loja especializada em periféricos para computadores, com foco principal em oferecer fones de ouvido de alta qualidade para todos os tipos de usuários — gamers, profissionais e amantes de música. Nosso objetivo é proporcionar som imersivo, conforto e desempenho, sempre com produtos modernos e de marcas confiáveis. Além dos fones, também disponibilizamos outros periféricos essenciais para completar sua experiência tecnológica.
 
@@ -11,6 +12,8 @@ Criadores - Daniel, Rubens e Samira
 Claro! Aqui está uma **breve descrição** que você pode usar no seu site ou apresentação:
 
 
+=======
+>>>>>>> de45010 (Update README to remove unnecessary description)
 
 **Sobre nós**
 A **SoundWave** é uma loja especializada em periféricos para computadores, com foco principal em oferecer **fones de ouvido de alta qualidade** para todos os tipos de usuários — gamers, profissionais e amantes de música. Nosso objetivo é proporcionar **som imersivo, conforto e desempenho**, sempre com produtos modernos e de marcas confiáveis. Além dos fones, também disponibilizamos outros periféricos essenciais para completar sua experiência tecnológica.
