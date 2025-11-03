@@ -1,4 +1,4 @@
-###################################### CHECKPOINT DOS DIAS ###############################################
+########### CHECKPOINT DOS DIAS #################
 
 No dia 28/10, realizamos uma importante alteração no site Soundwave, utilizando a tecnologia React. 
 Nesse dia, trabalhamos na estrutura e no aprimoramento do código, 
@@ -18,5 +18,5 @@ Essas ideias visam deixar o site mais completo, moderno funcional.
 Esses três dias marcaram um avanço significativo no projeto da Soundwave, mostrando o comprometimento da equipe com o crescimento e a qualidade da plataforma.
 
 
------------------------------------------------------------------------------------------------------------
-###########################################################################################################
+------------------------------------------------
+################################################
