@@ -1,49 +1,3 @@
-<<<<<<< HEAD
-/* Global */
-body, html { margin: 0; padding: 0; font-family: Arial, sans-serif; background: #f5f5f5; }
-a { text-decoration: none; color: inherit; }
-
-/* Header */
-.cabecalho { background: #111; color: #fff; padding: 15px 0; position: sticky; top: 0; z-index: 100; }
-.cabecalho .logo { font-size: 24px; display: inline-block; margin-left: 20px; }
-.menu { list-style: none; display: flex; justify-content: flex-end; gap: 20px; margin-right: 20px; }
-.menu li { display: inline-block; }
-.menu li a { color: #fff; padding: 5px 10px; transition: background 0.3s; }
-.menu li a:hover { background: #222; border-radius: 5px; }
-
-/* Banner */
-.banner { position: relative; text-align: center; padding: 40px 20px; overflow: hidden; }
-.banner-img { width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px; transition: opacity 1s; }
-.banner-text { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; text-shadow: 0 0 10px #000; }
-
-/* Produtos */
-.grid-produtos { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; padding: 20px; }
-.produto { background: #fff; padding: 15px; border-radius: 10px; box-shadow: 0 3px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s; }
-.produto:hover { transform: translateY(-5px); }
-.produto-img { width: 100%; max-height: 180px; object-fit: contain; }
-
-/* Footer */
-.rodape { background: #111; color: #fff; text-align: center; padding: 20px 0; margin-top: 40px; }
-
-/* Loading */
-.loading-overlay { position: fixed; top:0; left:0; width:100%; height:100%; background:#111; display:flex; justify-content:center; align-items:center; z-index:9999; flex-direction: column; color:#fff; }
-.loading-logo { width: 120px; margin-bottom: 20px; animation: spin 1.5s linear infinite; }
-@keyframes spin { 0%{transform:rotate(0deg);} 100%{transform:rotate(360deg);} }
-
-/* Page transitions */
-.page-enter { opacity: 0; transform: scale(0.98); }
-.page-enter-active { opacity: 1; transform: scale(1); transition: opacity 500ms, transform 500ms; }
-.page-exit { opacity: 1; transform: scale(1); }
-.page-exit-active { opacity: 0; transform: scale(0.98); transition: opacity 500ms, transform 500ms; }
-
-/* Buttons */
-.btn { padding: 10px 20px; background: #ff6600; color:#fff; border:none; border-radius:5px; cursor:pointer; transition: background 0.3s; }
-.btn:hover { background: #e65c00; }
-
-/* Responsivo */
-@media(max-width: 768px){
-  .banner-text { font-size: 14px; padding: 0 10px; }
-=======
 /* ================= RESET ================= */
 * {
     margin: 0;
@@ -537,7 +491,6 @@ body {
     text-align: center;
     animation: slideDown 0.3s;
     box-shadow: 0 6px 12px rgba(0,0,0,0.25);
->>>>>>> Daniel
 }
 
 /* ================= TELA DE CARREGAMENTO (LOADING SCREEN) ================= */
@@ -578,7 +531,7 @@ body {
     animation: spin 1.5s linear infinite; 
 }
 
-/* O BLOCO .loading-spinner FOI REMOVIDO DAQUI */
+
 
 
 /* Keyframes para animações */
