@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
+
 💼 Versão Profissional
->>>>>>> Daniel
+
 
 Na SoundWave, somos movidos pela paixão pela tecnologia e pela busca constante pela excelência sonora. Atuamos como especialistas em periféricos para computadores, com ênfase em fones de ouvido de alto desempenho, desenvolvidos para oferecer qualidade, conforto e durabilidade em cada detalhe.
 
