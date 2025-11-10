@@ -2,7 +2,7 @@
 
 Este é um projeto desenvolvido utilizando React e Vite como ferramenta de build. O projeto foi configurado para ser hospedado na Vercel, e inclui etapas para resolver problemas comuns durante o processo de deploy.
 
-Problema Inicial
+# Problema Inicial
 
 Ao tentar subir o projeto no Vercel, o build falhou com os seguintes erros:
 
@@ -22,7 +22,7 @@ A versão do React e do Node.js não eram compatíveis com a versão do Vite nec
 
 Alguns pacotes estavam desatualizados ou corrompidos devido a versões antigas no node_modules.
 
-Soluções Implementadas
+# Soluções Implementadas
 1. Ajustes no package.json
 
 Alterações foram feitas no arquivo package.json para garantir a instalação correta de dependências e o funcionamento do projeto tanto localmente quanto no Vercel.
@@ -47,13 +47,8 @@ Atualizamos a versão do React para a versão 18.x, compatível com o Vite 5:
 }
 
 
-Adicionamos a configuração de versão do Node.js para garantir compatibilidade com o Vercel:
 
-"engines": {
-  "node": "18.x"
-}
-
-2. Limpeza de dependências antigas
+## 2. Limpeza de dependências antigas
 
 No Windows PowerShell, executamos os seguintes comandos para remover dependências antigas e garantir uma instalação limpa:
 
@@ -92,7 +87,7 @@ git add package.json package-lock.json
 git commit -m "Corrige dependências e prepara build Vercel"
 git push
 
-Por Que Isso Funciona no Vercel?
+# Por Que Isso Funciona no Vercel?
 
 O Vercel precisa de algumas coisas para fazer o build corretamente:
 
