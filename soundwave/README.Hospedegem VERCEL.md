@@ -1,4 +1,4 @@
-Soundwave - Projeto React + Vite
+#Soundwave - Projeto React + Vite
 
 Este é um projeto desenvolvido utilizando React e Vite como ferramenta de build. O projeto foi configurado para ser hospedado na Vercel, e inclui etapas para resolver problemas comuns durante o processo de deploy.
 
