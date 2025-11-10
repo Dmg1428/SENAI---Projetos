@@ -23,7 +23,7 @@ A versão do React e do Node.js não eram compatíveis com a versão do Vite nec
 Alguns pacotes estavam desatualizados ou corrompidos devido a versões antigas no node_modules.
 
 # Soluções Implementadas
-1. Ajustes no package.json
+# 1. Ajustes no package.json
 
 Alterações foram feitas no arquivo package.json para garantir a instalação correta de dependências e o funcionamento do projeto tanto localmente quanto no Vercel.
 
